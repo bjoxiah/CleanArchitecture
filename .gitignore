@@ -1,3 +1,7 @@
 .vs/*
 .vscode/*
 /CleanArchitecture.Presentation/obj/
+/CleanArchitecture.Core/obj/
+/CleanArchitecture.Infrastructure/obj/
+/CleanArchitecture.Tests/obj/
+/CleanArchitecture.Tests/bin/
